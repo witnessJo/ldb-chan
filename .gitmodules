@@ -1,3 +1,6 @@
 [submodule "leveldb"]
 	path = leveldb
 	url = https://github.com/google/leveldb.git
+[submodule "log4cpp"]
+	path = log4cpp
+	url = https://github.com/orocos-toolchain/log4cpp.git
